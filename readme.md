@@ -2,6 +2,8 @@
 
 WordPress + Bootstrap + Compass + DUP
 
+This uses the official Docker Wordpress image, which includes PHP 5.6 and Apache 2.4
+
 # Requirements
 
 - Node
