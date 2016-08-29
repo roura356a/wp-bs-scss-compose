@@ -4,12 +4,12 @@
   "db": {
     "type": "mysql",
     "name": "wordpress",
-    "pass": "KYRLmB}:KC(wE6cT"
+    "pass": "KYRLmBKCwE6cT"
   },
   "env": {
     "WORDPRESS_DB_HOST": "db",
     "WORDPRESS_DB_NAME": "wordpress",
     "WORDPRESS_DB_USER": "admin",
-    "WORDPRESS_DB_PASSWORD": "KYRLmB}:KC(wE6cT"
+    "WORDPRESS_DB_PASSWORD": "KYRLmBKCwE6cT"
   }
 }
