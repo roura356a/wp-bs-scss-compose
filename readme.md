@@ -11,6 +11,6 @@ WordPress + Bootstrap + Compass + DUP
 # Instructions
 
 - After pulling this repository, delete the `.git` folder.
-- Customise **PROJECT_NAME_HERE** in `.up.json`.
+- Customise **PROJECT_NAME** in `.up.json`.
 - Run npm install in `code/wp-content/themes/wp-custom-theme`. 
 - Customise **PROJECT_NAME**, **PROJECT_URL**, **AUTHOR_URL** and **AUTHOR_NAME** in `sass/style.scss`.
