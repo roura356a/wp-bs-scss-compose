@@ -1,0 +1,15 @@
+{
+  "project": "PROJECT_NAME_HERE",
+  "volume": "code:/var/www/html",
+  "db": {
+    "type": "mysql",
+    "name": "wordpress",
+    "pass": "KYRLmB}:KC(wE6cT"
+  },
+  "env": {
+    "WORDPRESS_DB_HOST": "db",
+    "WORDPRESS_DB_NAME": "wordpress",
+    "WORDPRESS_DB_USER": "admin",
+    "WORDPRESS_DB_PASSWORD": "KYRLmB}:KC(wE6cT"
+  }
+}

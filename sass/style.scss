@@ -1,0 +1,12 @@
+/*
+Theme Name: PROJECT_NAME
+Theme URI: PROJECT_URL
+Author: Studio None
+Author URI: AUTHOR_URL
+Description: WordPress Theme for PROJECT_NAME made by AUTHOR_NAME.
+Version: 1.0
+*/
+@import 'variables';
+@import  '../code/wp-content/themes/wp-custom-theme/node_modules/bootstrap-sass/assets/stylesheets/bootstrap';
+@import 'wordpress';
+@import 'custom';

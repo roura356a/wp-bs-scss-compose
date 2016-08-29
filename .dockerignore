@@ -1,0 +1,4 @@
+.dockerignore
+
+# Wordpress specific ignores for Docker
+code/wp-content/themes/wp-custom-theme/node_modules/*

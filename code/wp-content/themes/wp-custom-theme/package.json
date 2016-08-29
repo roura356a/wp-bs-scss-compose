@@ -1,0 +1,14 @@
+{
+  "name": "wp-custom-theme",
+  "version": "1.0.0",
+  "description": "WP Theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alberto Roura (aKa roura356a)",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
