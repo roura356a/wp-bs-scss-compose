@@ -10,7 +10,7 @@ WordPress + Bootstrap + Compass + DUP
 
 # Instructions
 
-- After pulling this repository, delete the _.git_ folder.
+- Run `rm -rf .git && rm .gitignore && readme.md`.
 - Customise `PROJECT_NAME` in _.up.json_.
 - Run `docker run -d -p 80:80 -v /var/run/docker.sock:/tmp/docker.sock:ro jwilder/nginx-proxy`.
 - Run `dup init`.
