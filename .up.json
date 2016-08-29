@@ -1,5 +1,5 @@
 {
-  "project": "PROJECT_NAME_HERE",
+  "project": "PROJECT_NAME",
   "volume": "code:/var/www/html",
   "db": {
     "type": "mysql",
