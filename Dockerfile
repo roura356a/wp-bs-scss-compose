@@ -1,6 +1,6 @@
-ARG env=prod
-
 FROM wordpress:latest
+
+ARG env=prod
 
 ADD code /var/www/html
 
