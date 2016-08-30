@@ -2,16 +2,16 @@
 
 WordPress + Bootstrap + Compass + DUP
 
-- Wordpress (github.com/docker-library/wordpress)
-- Bootstrap (github.com/twbs/bootstrap-sass)
-- Compass (compass-style.org)
-- DUP (github.com/girvo/dup)
+- wordpress (github.com/docker-library/wordpress)
+- bootstrap (github.com/twbs/bootstrap-sass)
+- compass (compass-style.org)
+- dup (github.com/girvo/dup)
+
+- Using Debian 8 / Apache 2.4 / PHP 5.6
 
 ## Requirements
 
-- Node
-- DUP
-- Compass
+- dup
 
 ## Instructions
 
@@ -23,8 +23,3 @@ WordPress + Bootstrap + Compass + DUP
 - Run `dup up`.
 - Run `npm install` in _code/wp-content/themes/wp-custom-theme_. 
 - Customise `PROJECT_NAME`, `PROJECT_URL`, `AUTHOR_URL` and `AUTHOR_NAME` in _sass/style.scss_.
-
-## TODO
-
-- [ ] Add node.
-- [ ] Add compass.
