@@ -1,13 +1,13 @@
 # wp-bs-scss-dup
 
-WordPress + Bootstrap + Compass + DUP
+WordPress + Bootstrap + Compass + DUP.
+
+Using the official docker image from Wordpress that includes Debian 8, Apache 2.4 and PHP 5.6.
 
 - wordpress (github.com/docker-library/wordpress)
 - bootstrap (github.com/twbs/bootstrap-sass)
 - compass (compass-style.org)
 - dup (github.com/girvo/dup)
-
-- Using Debian 8 / Apache 2.4 / PHP 5.6
 
 ## Requirements
 
