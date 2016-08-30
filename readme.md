@@ -17,16 +17,15 @@ Using the official docker image from Wordpress that includes Debian 8, Apache 2.
 
 ## Instructions
 
-- Run `rm -rf .git && rm .gitignore && readme.md`.
+- Run `rm -rf .git && rm .gitignore && rm readme.md`.
 - Customise `PROJECT_NAME` in **.up.json**.
 - Run `docker run -d -p 80:80 -v /var/run/docker.sock:/tmp/docker.sock:ro jwilder/nginx-proxy`.
-- Run `dup init`.
-- Run `dup build`.
-- Run `dup up`.
-- Run `npm install` in _code/wp-content/themes/wp-custom-theme_. 
+- Run `dup init`, then `dup build` and `dup up`.
+- Run `dup bash web`.
+- Run `npm install` in _wp-content/themes/wp-custom-theme_.
 - Customise `PROJECT_NAME`, `PROJECT_URL`, `AUTHOR_URL` and `AUTHOR_NAME` in _sass/style.scss_.
 
 
 ## Using Compass
 
-The **config.rb** is located at _code/src_. Just run `compass watch` to watch for changes.
+You can run `compass watch` in the virtual machine, **config.rb** is located at _src/_.
