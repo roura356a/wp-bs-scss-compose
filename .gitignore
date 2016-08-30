@@ -383,5 +383,3 @@ crashlytics-build.properties
 fabric.properties
 
 .up.state
-code/
-!code/wp-content/themes/wp-custom-theme
