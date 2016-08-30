@@ -3,10 +3,10 @@ require 'compass/import-once/activate'
 
 # Set this to the root of your project when deployed:
 http_path = "/"
-css_dir = "code/wp-content/themes/wp-custom-theme"
-sass_dir = "sass"
-images_dir = "code/wp-content/themes/wp-custom-theme/images"
-javascripts_dir = "code/wp-content/themes/wp-custom-theme/javascripts"
+css_dir = "../wp-content/themes/wp-custom-theme"
+sass_dir = "../sass"
+images_dir = "../wp-content/themes/wp-custom-theme/images"
+javascripts_dir = "../wp-content/themes/wp-custom-theme/javascripts"
 
 sourcemap = true
 
