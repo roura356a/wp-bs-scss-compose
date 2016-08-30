@@ -1,0 +1,3 @@
+<?php
+
+// Your Wordpress magic here...
