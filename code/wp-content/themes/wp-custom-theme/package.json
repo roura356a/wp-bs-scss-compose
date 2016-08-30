@@ -2,6 +2,7 @@
   "name": "wp-custom-theme",
   "version": "1.0.0",
   "description": "WP Theme",
+  "repository": "github:roura356a/wp-bs-scss-dup",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
